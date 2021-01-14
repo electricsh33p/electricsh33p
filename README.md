@@ -8,3 +8,4 @@
 * ⚡ Fun fact: I dream of electric sh33p
 * 🐡 OpenBSD and Arch Linux user
 * I also use NT 4.0 for Lotus Organizer
+* Still wondering how Gentoo managed to mess it up...
